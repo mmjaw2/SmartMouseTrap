@@ -1,6 +1,6 @@
 # SmartMouseTrap
 
-This is Arduino code for 2 arduinos running to create a mouse trap.
+This is Arduino code for 2 Arduinos running to create the Smart Mouse Trap.
 
 Arduino #1 must have an UltraSonic Sensor and motor.
 Arduino #2 must have 2 LEDs and a button.
